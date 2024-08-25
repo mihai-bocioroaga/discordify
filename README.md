@@ -15,5 +15,8 @@ Files are installed in:
 
 ## Install ffmpeg
 
-This utility requires ffmpeg. Download it here:
+This utility requires ffmpeg.
 https://www.ffmpeg.org/
+
+Install:
+`winget install ffmpeg`
