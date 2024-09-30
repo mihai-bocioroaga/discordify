@@ -4,9 +4,9 @@ param(
 
     [string]$outputDir = ".",
 
-    [int]$targetSizeMB = 25,
+    [int]$targetSizeMB = 10,
 
-    [double]$initialOverheadFactor = 0.75
+    [double]$initialOverheadFactor = 0.60
 )
 
 function Get-VideoDuration {
